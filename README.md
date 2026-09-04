@@ -36,6 +36,13 @@ The project includes analysis of:
 * Common Table Expressions (CTEs)
 * Window Functions
 
+* Business Problem
+* Dataset
+* SQL Questions
+* SQL Concepts Used
+* Key Insights
+* Project Conclusion
+
 ## 📂 Project Files
 
 `hotel_reservation_analysis.sql` — Contains all SQL queries used for the analysis.
