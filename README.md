@@ -35,7 +35,8 @@ The project includes analysis of:
 * Subqueries
 * Common Table Expressions (CTEs)
 * Window Functions
-
+* 
+## 📊 Project 
 * Business Problem
 * Dataset
 * SQL Questions
@@ -50,6 +51,15 @@ The project includes analysis of:
 ## 🎯 Objective
 
 The objective of this project is to use SQL to transform hotel reservation data into meaningful business insights that can support better decision-making in hotel operations.
+
+## 📊 Project Presentation
+
+[View Project Presentation](./Hotel_Reservation_Operations_Analytics.pptx)
+
+## 📂 Project Files
+
+- [SQL Queries](./hotel_reservation_analysis.sql)
+- [Project Presentation](./Hotel_Reservation_Operations_Analytics.pptx)
 
 ## 👩‍💻 Author
 
